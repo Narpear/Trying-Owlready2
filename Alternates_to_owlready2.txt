@@ -10,4 +10,4 @@ There are several other libraries and frameworks for ontology learning and manip
 
 5. Ontology Design Patterns (ODP) Portal: The ODP Portal is a web-based tool that provides access to a repository of ontology design patterns. While not a Python library per se, it offers a RESTful API that can be accessed from Python scripts to retrieve and work with ontology design patterns.
 
-*** Protégé API: Protégé is a popular open-source ontology editor. While not a Python library itself, Protégé provides a Java API that can be accessed from Python using libraries like JPype or py4j, allowing you to programmatically interact with Protégé and manipulate ontologies.
+*** Protégé API: Protégé is an ontology editor. While not a Python library itself, Protégé provides a Java API that can be accessed from Python using libraries like JPype or py4j, allowing you to programmatically interact with Protégé and manipulate ontologies.
