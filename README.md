@@ -16,8 +16,3 @@ Here are some key features of Owlready2:
 
 6. **Ontology Alignment and Merging**: Owlready2 includes functionality for aligning and merging ontologies, which can be useful in ontology learning and integration scenarios.
 
-To install Owlready2, you can use pip:
-
-```
-pip install Owlready2
-```
